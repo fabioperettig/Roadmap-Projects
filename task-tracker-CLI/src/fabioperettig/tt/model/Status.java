@@ -1,9 +1,9 @@
 package fabioperettig.tt.model;
 
 public enum Status {
-    TODO("Todo"),
-    IN_PROGRESS("In progress"),
-    DONE("Done");
+    TODO("TO-DO"),
+    IN_PROGRESS("IN-PROGRESS"),
+    DONE("DONE");
 
     private final String value;
 

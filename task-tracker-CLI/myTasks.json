@@ -1,4 +1,8 @@
-
-{"id":"1", "task":"Get a Christmas Tree", "status":"Todo", "createdAt":"2026-06-16T17:54:50.114443"}
-{"id":"2", "task":"Buy some milk", "status":"Todo", "createdAt":"2026-06-16T17:54:50.11592"}
-{"id":"3", "task":"Get Gary's autograph", "status":"Todo", "createdAt":"2026-06-16T17:54:50.11593"}
+[
+  {"id":"1", "task":"Cash the paycheck", "status":"TO-DO", "createdAt":"2026-06-17T11:18:33.289234"},
+  {"id":"2", "task":"Return an overdue book", "status":"TO-DO", "createdAt":"2026-06-17T11:18:33.291477"},
+  {"id":"3", "task":"Get Gary's autograph", "status":"TO-DO", "createdAt":"2026-06-17T11:18:33.29149"},
+  {"id":"4", "task":"Cast your ballot", "status":"TO-DO", "createdAt":"2026-06-17T11:18:33.291497"},
+  {"id":"5", "task":"Buy some milk", "status":"TO-DO", "createdAt":"2026-06-17T11:18:33.291503"},
+  {"id":"6", "task":"Get a Christmas Tree", "status":"TO-DO", "createdAt":"2026-06-17T11:18:33.291509"}
+]

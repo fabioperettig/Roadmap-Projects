@@ -72,7 +72,7 @@ public class Task {
 
         int id = Integer.parseInt(fields.get("id"));
         String title = fields.get("task");
-        Status status = Status.valueOf(fields.get("status"));
+        Status status = Status.valueOf(fields.get("status").replace("-", "").toUpperCase());
         LocalDateTime createdAt = LocalDateTime.parse(fields.get("createdAt"), formater);
 
         Task task = new Task(title);
